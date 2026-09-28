@@ -1,6 +1,6 @@
 cask "instant-translate-enhanced" do
-  version "1.0.0"
-  sha256 "2f608309f8f6acaa361686ccf74e98b6b18b9c40a669ccb1efe001dbaa410f3c"
+  version "1.0.1"
+  sha256 "d90452694037e55f52887d2ea72e7d0fc033c49d828b734bdc0e4df26554290d"
 
   url "https://github.com/anonymousaga/instant-translate-enhanced/releases/download/v#{version}/instant-translate-enhanced-v#{version}-darwin-arm64.zip"
   name "instant-translate-enhanced"
