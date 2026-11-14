@@ -1,6 +1,6 @@
 cask "calstrip" do
-  version "0.5.95"
-  sha256 "9d555c7f370cb2af8babb50fd500bbcf6682451db8e504640b9951b7163a1be8"
+  version "1.0.0"
+  sha256 "260b39f812c92527f70ad748ca6ef8a2c5044941787a034d9a1800e7dedc9c04"
 
   url "https://github.com/anonymousaga/CalStrip/releases/download/v#{version}/CalStrip-v#{version}-darwin-arm64.zip"
   name "CalStrip"
